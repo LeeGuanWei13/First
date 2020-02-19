@@ -1,7 +1,7 @@
 # First
 First repo for Website Design
 
-<b1>Wednesday</b1>
+<h1>Wednesday</h1>
 
 <tr>
   Data
