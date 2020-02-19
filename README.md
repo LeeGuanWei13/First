@@ -3,10 +3,12 @@ First repo for Website Design
 
 <b1>Wednesday</b1>
 
-<tr>Data
+<tr>
+  Data
   Day
   Month
-  Year</tr>
+  Year
+</tr>
 
 
 <tb>19</tb>
