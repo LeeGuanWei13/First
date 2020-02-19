@@ -1,6 +1,10 @@
 # First
 First repo for Website Design
 
-<b1>Wednesday</B1>
+<b1>Wednesday
 
-<tr>Day</tr>
+<tr>Data
+  Day
+  Month
+  Year
+</tr>
